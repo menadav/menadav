@@ -18,7 +18,7 @@ An end-to-end RAG system designed to interact with large codebases, combining sp
 
 ---
 
-# [Call Me Maybe](https://github.com/menadav](https://github.com/menadav/IA_LLM_Logit_Masking) — LLM Constrained Decoding
+# [Call Me Maybe](https://github.com/menadav/IA_LLM_Logit_Masking) — LLM Constrained Decoding
 
 Deterministic LLM pipeline that guarantees **100% valid JSON function calls** by masking model-generated logits at the token level. Enforces strict type-matching against JSON Schema and custom stopping criteria during generation — zero retries, zero parsing failures.
 
