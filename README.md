@@ -14,7 +14,7 @@ An end-to-end RAG system designed to interact with large codebases, combining sp
 - **Evaluation Pipeline:** Built-in Recall@k evaluation suite to benchmark and optimize retrieval quality.
 - **End-to-End CLI:** Robust command-line interface managing everything from data ingestion to answer generation.
 
-![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) `Transformers` `Pydantic` `ChromaDB`
+![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) ![Transformers](https://camo.githubusercontent.com/90c883a74d2917921ee20b8adf5e4ed4e039d6f9f15345ca2b538f640ee9dcd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472616e73666f726d6572732d4646443231453f7374796c653d666c61742d737175617265266c6f676f3d68756767696e6766616365266c6f676f436f6c6f723d626c61636b)![Pydantic](https://camo.githubusercontent.com/16e7184347ebf79e92d56cb1fe0951bfc37f618f1125c220764c0152496e596e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507964616e7469632d4539323036333f7374796c653d666c61742d737175617265266c6f676f3d707964616e746963266c6f676f436f6c6f723d7768697465)  `ChromaDB`
 
 ---
 
@@ -22,20 +22,21 @@ An end-to-end RAG system designed to interact with large codebases, combining sp
 
 Deterministic LLM pipeline that guarantees **100% valid JSON function calls** by masking model-generated logits at the token level. Enforces strict type-matching against JSON Schema and custom stopping criteria during generation — zero retries, zero parsing failures.
 
-`Python` `Transformers`
+![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) ![Transformers](https://camo.githubusercontent.com/90c883a74d2917921ee20b8adf5e4ed4e039d6f9f15345ca2b538f640ee9dcd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472616e73666f726d6572732d4646443231453f7374796c653d666c61742d737175617265266c6f676f3d68756767696e6766616365266c6f676f436f6c6f723d626c61636b)
 
 
 # [Fly-In](https://github.com/menadav/Test_Dijkstra) — Multi-Drone Routing Optimizer
 
 Simulation engine that solves optimal multi-drone routing using **Time-Expanded Graphs**. Handles pathfinding, collision avoidance, and capacity constraints — implemented from scratch without external graph libraries.
 
-`Python` `Pytest` `Pydantic`
+![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) `Pytest` ![Pydantic](https://camo.githubusercontent.com/16e7184347ebf79e92d56cb1fe0951bfc37f618f1125c220764c0152496e596e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507964616e7469632d4539323036333f7374796c653d666c61742d737175617265266c6f676f3d707964616e746963266c6f676f436f6c6f723d7768697465) 
 
 ---
 
 # [Pac-Man](https://github.com/menadav/Pac-Man) — Arcade Game Engine
 
 Full recreation of the classic arcade game: MVC architecture, procedural maze generation, ghost AI with distinct behavioral personalities, and persistent highscores.
+![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)![Pydantic](https://camo.githubusercontent.com/16e7184347ebf79e92d56cb1fe0951bfc37f618f1125c220764c0152496e596e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507964616e7469632d4539323036333f7374796c653d666c61742d737175617265266c6f676f3d707964616e746963266c6f676f436f6c6f723d7768697465) 
 <!--
 **menadav/menadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
