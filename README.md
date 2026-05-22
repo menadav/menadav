@@ -5,7 +5,7 @@ within high-pressure airport environments. Now leveraging that strong operationa
 systems programming (C, Linux) and AI automation (Python) through advanced, project-based training at 42
 Barcelona. Experienced in building deterministic AI pipelines and highly concurrent software architectures
 
-# [RAG Against the Machine](https://github.com/menadav) - Hybrid Search & Repository-Scale RAG
+# [RAG Against the Machine](https://github.com/menadav/IA_LLM_RAG) - Hybrid Search & Repository-Scale RAG
 
 An end-to-end RAG system designed to interact with large codebases, combining sparse and dense retrieval to provide highly accurate, natural-language answers using the Qwen LLM.
 
@@ -18,14 +18,14 @@ An end-to-end RAG system designed to interact with large codebases, combining sp
 
 ---
 
-# [Call Me Maybe](https://github.com/menadav) — LLM Constrained Decoding
+# [Call Me Maybe](https://github.com/menadav](https://github.com/menadav/IA_LLM_Logit_Masking) — LLM Constrained Decoding
 
 Deterministic LLM pipeline that guarantees **100% valid JSON function calls** by masking model-generated logits at the token level. Enforces strict type-matching against JSON Schema and custom stopping criteria during generation — zero retries, zero parsing failures.
 
 `Python` `Transformers`
 
 
-# [Fly-In](https://github.com/menadav) — Multi-Drone Routing Optimizer
+# [Fly-In](https://github.com/menadav/Test_Dijkstra) — Multi-Drone Routing Optimizer
 
 Simulation engine that solves optimal multi-drone routing using **Time-Expanded Graphs**. Handles pathfinding, collision avoidance, and capacity constraints — implemented from scratch without external graph libraries.
 
@@ -33,7 +33,7 @@ Simulation engine that solves optimal multi-drone routing using **Time-Expanded 
 
 ---
 
-# [Pac-Man](https://github.com/menadav) — Arcade Game Engine
+# [Pac-Man](https://github.com/menadav/Pac-Man) — Arcade Game Engine
 
 Full recreation of the classic arcade game: MVC architecture, procedural maze generation, ghost AI with distinct behavioral personalities, and persistent highscores.
 <!--
