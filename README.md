@@ -1,5 +1,9 @@
-## Hi there 👋
+#David Mena#
 
+Software Engineer with a proven track record in team coordination, logistics operations, and turn management
+within high-pressure airport environments. Now leveraging that strong operational foundation into low-level
+systems programming (C, Linux) and AI automation (Python) through advanced, project-based training at 42
+Barcelona. Experienced in building deterministic AI pipelines and highly concurrent software architectures
 <!--
 **menadav/menadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
