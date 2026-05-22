@@ -1,4 +1,4 @@
-#David Mena#
+# David Mena
 
 Software Engineer with a proven track record in team coordination, logistics operations, and turn management
 within high-pressure airport environments. Now leveraging that strong operational foundation into low-level
