@@ -5,6 +5,8 @@ within high-pressure airport environments. Now leveraging that strong operationa
 systems programming (C, Linux) and AI automation (Python) through advanced, project-based training at 42
 Barcelona. Experienced in building deterministic AI pipelines and highly concurrent software architectures
 
+# 📂 Featured Projects
+
 # [RAG Against the Machine](https://github.com/menadav/IA_LLM_RAG) - Hybrid Search & Repository-Scale RAG
 
 An end-to-end RAG system designed to interact with large codebases, combining sparse and dense retrieval to provide highly accurate, natural-language answers using the Qwen LLM.
@@ -14,7 +16,7 @@ An end-to-end RAG system designed to interact with large codebases, combining sp
 - **Evaluation Pipeline:** Built-in Recall@k evaluation suite to benchmark and optimize retrieval quality.
 - **End-to-End CLI:** Robust command-line interface managing everything from data ingestion to answer generation.
 
-![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) ![Transformers](https://camo.githubusercontent.com/90c883a74d2917921ee20b8adf5e4ed4e039d6f9f15345ca2b538f640ee9dcd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472616e73666f726d6572732d4646443231453f7374796c653d666c61742d737175617265266c6f676f3d68756767696e6766616365266c6f676f436f6c6f723d626c61636b)![Pydantic](https://camo.githubusercontent.com/16e7184347ebf79e92d56cb1fe0951bfc37f618f1125c220764c0152496e596e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507964616e7469632d4539323036333f7374796c653d666c61742d737175617265266c6f676f3d707964616e746963266c6f676f436f6c6f723d7768697465)![ChromaDB](https://camo.githubusercontent.com/70ead53da966c153cd72f99ad61af5ff18f29c48c8d3acd4601493d2337547f9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4368726f6d6144422d4646344234423f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c65636c6f7564266c6f676f436f6c6f723d7768697465)
+![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/TRANSFORMERS-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![Pydantic](https://img.shields.io/badge/PYDANTIC-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![ChromaDB](https://img.shields.io/badge/CHROMADB-%23FF4B4B.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 ---
 
@@ -22,14 +24,14 @@ An end-to-end RAG system designed to interact with large codebases, combining sp
 
 Deterministic LLM pipeline that guarantees **100% valid JSON function calls** by masking model-generated logits at the token level. Enforces strict type-matching against JSON Schema and custom stopping criteria during generation — zero retries, zero parsing failures.
 
-![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) ![Transformers](https://camo.githubusercontent.com/90c883a74d2917921ee20b8adf5e4ed4e039d6f9f15345ca2b538f640ee9dcd7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5472616e73666f726d6572732d4646443231453f7374796c653d666c61742d737175617265266c6f676f3d68756767696e6766616365266c6f676f436f6c6f723d626c61636b)![Pydantic](https://camo.githubusercontent.com/16e7184347ebf79e92d56cb1fe0951bfc37f618f1125c220764c0152496e596e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507964616e7469632d4539323036333f7374796c653d666c61742d737175617265266c6f676f3d707964616e746963266c6f676f436f6c6f723d7768697465)
+![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/TRANSFORMERS-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![Pydantic](https://img.shields.io/badge/PYDANTIC-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 
 
 # [Fly-In](https://github.com/menadav/Test_Dijkstra) — Multi-Drone Routing Optimizer
 
 Simulation engine that solves optimal multi-drone routing using **Time-Expanded Graphs**. Handles pathfinding, collision avoidance, and capacity constraints — implemented from scratch without external graph libraries.
 
-![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) ![Pytest](https://camo.githubusercontent.com/392dc16fbf481354affce0444fd147c086218933c8f6c1160f96dfaefdfd472d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5079746573742d3041394544433f7374796c653d666c61742d737175617265266c6f676f3d707974657374266c6f676f436f6c6f723d7768697465) ![Pydantic](https://camo.githubusercontent.com/16e7184347ebf79e92d56cb1fe0951bfc37f618f1125c220764c0152496e596e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507964616e7469632d4539323036333f7374796c653d666c61742d737175617265266c6f676f3d707964616e746963266c6f676f436f6c6f723d7768697465)![Pygame](https://img.shields.io/badge/Pygame-F15A24?style=flat-square&logo=pygame&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Pytest](https://img.shields.io/badge/PYTEST-%230A9EDC.svg?style=for-the-badge&logo=pytest&logoColor=white) ![Pydantic](https://img.shields.io/badge/PYDANTIC-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![Pygame](https://img.shields.io/badge/PYGAME-%23F15A24.svg?style=for-the-badge&logo=pygame&logoColor=white)
 
 ---
 
@@ -37,7 +39,12 @@ Simulation engine that solves optimal multi-drone routing using **Time-Expanded 
 
 Full recreation of the classic arcade game: MVC architecture, procedural maze generation, ghost AI with distinct behavioral personalities, and persistent highscores.
 
-![Python](https://camo.githubusercontent.com/f86361c44594c99e6bc8adce37f8af8623e419c170dfcbd18bffc3544ea154ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)![Pydantic](https://camo.githubusercontent.com/16e7184347ebf79e92d56cb1fe0951bfc37f618f1125c220764c0152496e596e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507964616e7469632d4539323036333f7374796c653d666c61742d737175617265266c6f676f3d707964616e746963266c6f676f436f6c6f723d7768697465)![Pygame](https://img.shields.io/badge/Pygame-F15A24?style=flat-square&logo=pygame&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/PYDANTIC-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![Pygame](https://img.shields.io/badge/PYGAME-%23F15A24.svg?style=for-the-badge&logo=pygame&logoColor=white)
+
+
+# 🛠️ Technologies I Use
+
+![MySQL](https://img.shields.io/badge/MYSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 <!--
 **menadav/menadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
