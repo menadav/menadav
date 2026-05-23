@@ -26,6 +26,11 @@ Deterministic LLM pipeline that guarantees **100% valid JSON function calls** by
 
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Transformers](https://img.shields.io/badge/TRANSFORMERS-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black) ![Pydantic](https://img.shields.io/badge/PYDANTIC-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white)
 
+# [Codexion](https://github.com/menadav/Threads) - Multithreading
+
+Architecture of a highly concurrent operating system simulation. Shared resource orchestration and CPU scheduling (FIFO/EDF) using POSIX threads and mutexes to prevent deadlocks.
+
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 # [Fly-In](https://github.com/menadav/Test_Dijkstra) — Multi-Drone Routing Optimizer
 
@@ -42,9 +47,9 @@ Full recreation of the classic arcade game: MVC architecture, procedural maze ge
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/PYDANTIC-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![Pygame](https://img.shields.io/badge/PYGAME-%23F15A24.svg?style=for-the-badge&logo=pygame&logoColor=white)
 
 
-# 🛠️ Technologies I Use
+# 🛠️ Technologies
 
-![MySQL](https://img.shields.io/badge/MYSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![MySQL](https://img.shields.io/badge/MYSQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/GIT-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 <!--
 **menadav/menadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
