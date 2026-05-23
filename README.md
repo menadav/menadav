@@ -5,6 +5,8 @@ within high-pressure airport environments. Now leveraging that strong operationa
 systems programming (C, Linux) and AI automation (Python) through advanced, project-based training at 42
 Barcelona. Experienced in building deterministic AI pipelines and highly concurrent software architectures
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/menadav/)[![Gmail](https://img.shields.io/badge/GMAIL-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:menadav.06@gmail.com)
+
 # 📂 Featured Projects
 
 # [RAG Against the Machine](https://github.com/menadav/IA_LLM_RAG) - Hybrid Search & Repository-Scale RAG
