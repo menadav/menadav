@@ -10,7 +10,8 @@ Barcelona. Experienced in building deterministic AI pipelines and highly concurr
     <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-# 📂 Featured Projects
+
+# 📂Featured Projects
 
 # [RAG Against the Machine](https://github.com/menadav/IA_LLM_RAG) - Hybrid Search & Repository-Scale RAG
 
