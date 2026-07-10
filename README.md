@@ -52,6 +52,11 @@ Full recreation of the classic arcade game: MVC architecture, procedural maze ge
 
 ![Python](https://img.shields.io/badge/PYTHON-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Pydantic](https://img.shields.io/badge/PYDANTIC-%23E92063.svg?style=for-the-badge&logo=pydantic&logoColor=white) ![Pygame](https://img.shields.io/badge/PYGAME-%23F15A24.svg?style=for-the-badge&logo=pygame&logoColor=white)
 
+# [TAP — The Answer Protocol](https://github.com/menadav/TCP) - Real-Time Multiplayer TCP Protocol Engine
+
+Custom line-based TCP protocol powering a shared-world multiplayer text adventure, built from scratch in Go with a central-hub concurrency model and zero external dependencies for state management.
+
+![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![TCP](https://img.shields.io/badge/TCP-%23004482.svg?style=for-the-badge&logo=cloudflare&logoColor=white) ![Concurrency](https://img.shields.io/badge/CONCURRENCY-%23375EAB.svg?style=for-the-badge&logo=go&logoColor=white) ![Fyne](https://img.shields.io/badge/FYNE-%23FF8C00.svg?style=for-the-badge&logoColor=white)
 
 # 🛠️ Technologies
 
