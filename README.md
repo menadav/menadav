@@ -1,8 +1,8 @@
 # David Mena
  
-**Backend Developer — Go · Microservices · Event-Driven Systems**
+**Software Engineer — Backend · Go · Microservices · Event-Driven Systems**
  
-Backend developer focused on **Go**, **microservices** and **event-driven architectures** (Kafka, Docker), trained through
+Software engineer focused on backend development with **Go**, **microservices** and **event-driven architectures** (Kafka, Docker), trained through
 advanced project-based programming at **42 Barcelona** with a strong low-level foundation in C and Linux. Also experienced
 in Python and AI tooling: agentic frameworks, RAG pipelines and deterministic LLM decoding. Brings years of team
 coordination and turn management in high-pressure airport operations — used to reliability, deadlines and systems that can't fail.
