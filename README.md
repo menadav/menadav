@@ -20,7 +20,7 @@ coordination and turn management in high-pressure airport operations — used to
  
 Event-driven microservice built in Go on top of **Apache Kafka**. Services communicate asynchronously through message queues — producers publish events to topics and consumer groups process them independently — decoupling components and allowing the system to scale and recover from failures without losing messages.
  
-![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kafka](https://img.shields.io/badge/APACHE_KAFKA-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white) ![Docker](https://img.shields.io/badge/DOCKER-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Kafka](https://img.shields.io/badge/APACHE_KAFKA-%23231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
  
 ---
  
