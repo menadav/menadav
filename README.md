@@ -16,7 +16,7 @@ coordination and turn management in high-pressure airport operations — used to
  
 ## 🐹 Backend & Distributed Systems (Go)
  
-# [Kafka Microservice](https://github.com/menadav/REPO_KAFKA) — Event-Driven Microservice in Go
+# [Kafka Microservice](https://github.com/menadav/Kafka) — Event-Driven Microservice in Go
  
 Event-driven microservice built in Go on top of **Apache Kafka**. Services communicate asynchronously through message queues — producers publish events to topics and consumer groups process them independently — decoupling components and allowing the system to scale and recover from failures without losing messages.
  
